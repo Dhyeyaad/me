@@ -1,0 +1,142 @@
+body{
+  background-color: lime;
+}
+
+h1{
+  background-color: blue;
+  font-family: Caveat;
+  text-align: center;
+}
+
+h2{
+  text-align: left;
+}
+
+h3{
+  background-color: Red;
+  font-family: Caveat;
+}
+
+hr{
+border-style: none;
+border-top-style:dotted;
+border-color: blue;
+border-width: 10px;
+width: 100%;
+}
+
+h4{
+  padding: 3% 18%
+}
+
+a{
+  color: aqua;
+  margin: 60px 100px;
+  font-family: Caveat;
+  font-size: 40px;
+  text-align: left;
+}
+
+a:hover{
+  color: black;
+}
+
+.myButton {
+	box-shadow: 0px 0px 0px -50px #37ff00;
+	background-color:#ff4c68;
+	border-radius:400px;
+  border:7px solid #465948;
+	display:inline-block;
+	cursor:pointer;
+	color:lime;
+	font-family:Caveat;
+	font-size:35px;
+	font-weight:bold;
+	padding:15px 50px;
+	text-decoration: none;
+	text-shadow:0px 0px 23px #000000;
+}
+.myButton:hover {
+	background-color:aqua;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#title{
+  background-color: mediumspringgreen;
+}
+
+#title2{
+  background-color: #ff4c68;
+}
+
+#title3{
+  background-color:orange;
+}
+
+#title4{
+  background-color: deeppink
+}
+
+#title5{
+  background-color: chocolate;
+}
+
+#title6{
+  background-color:darkgray;
+}
+
+span{
+
+}
+
+#goa{
+  width: 300px;
+}
+
+#ji{
+  width: 300px;
+  transform: rotate(15deg);
+  border-radius: 40%;
+}
+
+#footer{
+  font-family:Caveat;
+  font-weight: bold;
+  font-size: 40px;
+}
+
+/* navigation bar */
+
+.navbar{
+  padding:0 0 1.5rem;
+}
+
+.navbar-brand{
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-family: Caveat;
+}
+
+.nav-link{
+  font-size: 1.8rem;
+    font-family:Caveat;
+}
+
+/* features section */
+
+#features{
+  padding: 1% 10%;
+}
+
+
+.icon{
+  color:aqua;
+  padding: 5% 30%;
+}
+
+.icon:hover{
+  color: black;
+}
